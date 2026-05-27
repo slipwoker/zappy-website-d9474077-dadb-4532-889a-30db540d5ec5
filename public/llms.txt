@@ -7,21 +7,21 @@
 ## Pages
 
 ### בית
-https://-d9474077.zappy5.app
+https://example.com
 A premium graphic design service exclusively targeting the Haredi (ultra-Orthodox Jewish) community. The brand emphasizes professionalism, trustworthiness, and 
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-d9474077.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-d9474077.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-d9474077.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -59,6 +59,6 @@ Graphic Design
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-d9474077.zappy5.app/sitemap.xml
-- Robots: https://-d9474077.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-d9474077.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt

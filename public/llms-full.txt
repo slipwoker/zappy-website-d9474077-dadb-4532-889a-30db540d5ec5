@@ -2,13 +2,13 @@
 
 A premium graphic design service exclusively targeting the Haredi (ultra-Orthodox Jewish) community. The brand emphasizes professionalism, trustworthiness, and modesty — with no images of women, no immodest illustrations, and no symbols inappropriate for the Haredi audience. The visual identity is luxurious and modern, using black, white, gold, or deep blue with elegant accents. The business positions itself as a high-end yet accessible studio, offering a special launch price of 85₪ per ad, with fast turnaround and full cultural sensitivity. The tone is respectful, clean, and tailored to Haredi press and digital advertising standards.
 
-Source: https://-d9474077.zappy5.app
+Source: https://example.com
 
 ---
 
 ## graphics and design — גרפיקה ברמה
 
-URL: https://-d9474077.zappy5.app
+URL: https://example.com
 Description: A premium graphic design service exclusively targeting the Haredi (ultra-Orthodox Jewish) community. The brand emphasizes professionalism, trustworthiness, and 
 
 graphics and design — גרפיקה ברמה
@@ -755,7 +755,7 @@ hgqx0024@gmail.com
 
 ## מדיניות פרטיות
 
-URL: https://-d9474077.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -1022,7 +1022,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-d9474077.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1298,7 +1298,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-d9474077.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
