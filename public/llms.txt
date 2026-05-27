@@ -1,0 +1,64 @@
+# גרפיקה ברמה — Generative Engine Optimization Map
+
+> A premium graphic design service exclusively targeting the Haredi (ultra-Orthodox Jewish) community. The brand emphasizes professionalism, trustworthiness, and modesty — with no images of women, no immodest illustrations, and no symbols inappropriate for the Haredi audience. The visual identity is luxurious and modern, using black, white, gold, or deep blue with elegant accents. The business positions itself as a high-end yet accessible studio, offering a special launch price of 85₪ per ad, with fast turnaround and full cultural sensitivity. The tone is respectful, clean, and tailored to Haredi press and digital advertising standards.
+
+---
+
+## Pages
+
+### בית
+https://-d9474077.zappy5.app
+A premium graphic design service exclusively targeting the Haredi (ultra-Orthodox Jewish) community. The brand emphasizes professionalism, trustworthiness, and 
+
+## Legal & Policy
+
+### Privacy Policy
+https://-d9474077.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-d9474077.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-d9474077.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About גרפיקה ברמה
+A premium graphic design service exclusively targeting the Haredi (ultra-Orthodox Jewish) community. The brand emphasizes professionalism, trustworthiness, and modesty — with no images of women, no immodest illustrations, and no symbols inappropriate for the Haredi audience. The visual identity is luxurious and modern, using black, white, gold, or deep blue with elegant accents. The business positions itself as a high-end yet accessible studio, offering a special launch price of 85₪ per ad, with fast turnaround and full cultural sensitivity. The tone is respectful, clean, and tailored to Haredi press and digital advertising standards.
+
+## Services/Products
+- מודעות פרסום
+- פליירים
+- הזמנות
+- עיצוב לעסקים
+- מודעות לעיתונים
+- באנרים ופרסום דיגיטלי
+- עיצובים בהתאמה אישית
+
+## Target Audience
+- הציבור החרדי בלבד
+- בעלי עסקים חרדים
+- מארגני אירועים חרדים
+- ארגוני נוער חרדיים
+
+## Industry
+Graphic Design
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-d9474077.zappy5.app/sitemap.xml
+- Robots: https://-d9474077.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-d9474077.zappy5.app/llms-full.txt
